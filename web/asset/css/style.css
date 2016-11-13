@@ -1,0 +1,14 @@
+.margin-4-em{
+	margin-top: 4em;
+}
+
+.error{
+	font-weight: bold;
+	color: red;
+}
+
+.thumbnails{
+	padding: 2em;
+	background-color: #ddd;
+	border-radius: 5px;
+}

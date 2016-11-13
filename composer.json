@@ -1,0 +1,15 @@
+{
+    "name": "clement/pyramide",
+    "authors": [
+        {
+            "name": "Clement Teboul",
+            "email": "teboul.clement@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "autoload": {
+        "files": [ "library.php", "model.php", "controller.php"]
+    }
+}
