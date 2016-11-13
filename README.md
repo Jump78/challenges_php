@@ -47,3 +47,5 @@ color_damier = #ddd,#000
 
 
 color_circle = #86d8ef
+
+### Attention, le manque d'un de ces paramètres pourrait nuir au bond fonctionnement des exerices
