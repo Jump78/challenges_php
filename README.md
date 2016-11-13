@@ -1,10 +1,12 @@
-# Ensemble d'exercice a rendre Lundi 13/11/2016 au matin.
+# Ensemble d'exercice a rendre Lundi 14/11/2016 au matin.
 
-## Merci de lancer un serveur local dans le dossier web.
+## Merci de lancer un serveur local php dans le dossier web.
 
-## Merci de créer un dossier .env avec les données suivantes:
+## N'oublier pas de lancer un "composer install" a la racine du dossier
 
-URL_SITE=http://localhost:8000 ( url de votre server local)
+## Merci de créer un fichier .env a la racine du dossier avec les données suivantes:
+
+URL_SITE= url de votre server local(ex : http://localhost:8000)
 
 ###Taille de votre svg
 
